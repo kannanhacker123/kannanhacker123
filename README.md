@@ -2,8 +2,6 @@
 - 👀 I’m interested in ...to make App and Games
 - 🌱 I’m currently learning ... Android Apps Development and Networking
 - 💞️ I’m looking to collaborate on ...a software team in **Kerala** 
-- 📫 How to reach me....**Facebook link 👇👇
-https://www.facebook.com/profile.php?id=100074358390145**
 - **Email 👉👉 kannan.hacker1@gmail.com **
 <!---
 kannanhacker123/kannanhacker123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
