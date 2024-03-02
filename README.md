@@ -1,4 +1,10 @@
 <div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FFFF&center=true&vCenter=true&width=435&lines=Hey..+I'm+{Lnyx};This+is..;..my+Github..;" alt="Typing SVG"/>
+  </h1>
+</div>
+
+<div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
@@ -21,12 +27,19 @@
 <h1 align="center">hey there 👋</h1>
 
 ###
+<div align="center">
+  <h2>🚀 About Me</h2>
 
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">I'm Lnyx... from Land of Wano....<br><br>- 🔭 I’m working as Coder...<br>- 📚 I'm currently learning python...<br>- ⚡ In my free time I Sleep ...</p>
+<div align="center">
+  <p>🌟 Fun Fact: I can write code faster than I can brew coffee! ☕</p>
+</div>
+<p>I'm a passionate developer who loves building web apps and exploring new technologies.</p>
+</div>
+
 
 ###
 
