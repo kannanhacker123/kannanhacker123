@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FFFF&center=true&vCenter=true&width=435&lines=Hey..+I'm+{Lynx};This+is..;..my+Github..;" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FFFF&center=true&vCenter=true&width=435&lines=Hey..+I'm+{Kannan};This+is..;..my+Github..;" alt="Typing SVG"/>
   </h1>
 </div>
 
@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Lnyx... from Land of Wano....<br><br>- 🔭 I’m working as Coder...<br>- 📚 I'm currently learning python...<br>- ⚡ In my free time I Sleep ...</p>
+<p align="left">I'm Kannan... from Land of Wano....<br><br>- 🔭 I’m working as Coder...<br>- 📚 I'm currently learning python...<br>- ⚡ In my free time I Sleep ...</p>
 <div align="center">
   <p>🌟 Fun Fact: I can write code faster than I can brew coffee! ☕</p>
 </div>
