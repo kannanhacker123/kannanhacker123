@@ -1,74 +1,118 @@
-<!-- Optimized GitHub README for Kannan -->
+# Hey there! 👋 I'm Aravind K.B (Kannan)
 
 <div align="center">
-  <!-- Title & Typing SVG -->
-  <h1>👋 Hey, I'm Kannan</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;" alt="Typing SVG" />
-
-  
-  <!-- Social Links -->
-  <p>
-    <a href="https://linkedin.com/in/kannan" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <a href="https://youtube.com/kannan" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
-    </a>
-    <a href="https://twitter.com/kannan" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Next.js+Enthusiast;Code+Artist+%26+Tech+Explorer;Building+Super+Amazing+Projects" alt="Typing SVG" />
 </div>
-
----
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working as a software developer.
-- 📚 I’m learning Python and diving deeper into DevOps tools.
-- ⚡ In my free time, I enjoy exploring new tech and contributing to open-source.
-- 🌟 Fun Fact: I can write code faster than I can brew coffee! ☕
+```python
+class Kannan:
+    def __init__(self):
+        self.name = "Aravind K.B"
+        self.nickname = "Kannan"
+        self.birth_year = 2005
+        self.role = "Full Stack Web Developer"
+        self.location = "Kochi, Kerala"
+        self.fav_languages = ["Python", "JavaScript", "C++"]
+        self.stack = ["Next.js", "React", "Node.js", "MERN"]
+        self.projects = 5
+        self.fun_fact = "Started coding at 12, still debugging at 19!"
+    
+    def highlights(self):
+        return [
+            "Super amazing projects 🚀",
+            "Game and 3D art creator 🎮🎨",
+            "AI explorer 🤖"
+        ]
+
+kannan = Kannan()
+print(f"Hey, I'm {kannan.nickname} – full stack dev, builder, and lifelong learner!")
+```
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" alt="Ruby" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" alt="CircleCI" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" height="40" />
-</p>
+<div align="center">
+
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Web & Frontend  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend & DB  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools, 3D & Game Dev  
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot%20engine&logoColor=white)
+
+</div>
 
 ---
 
 ## 🌟 Featured Projects
 
-- **[Awesome Project 1](https://github.com/kannanhacker123/awesome-project-1)**: A brief description of what this project does.
-- **[Awesome Project 2](https://github.com/kannanhacker123/awesome-project-2)**: Another amazing project you worked on.
-- **[Awesome Project 3](https://github.com/kannanhacker123/awesome-project-3)**: Highlight your contributions.
-
----
-
-## 🔥 GitHub Stats
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kannanhacker123&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak" height="220" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannanhacker123&layout=compact&langs_count=10&theme=dark" alt="Most Used Languages" />
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏋️ **Workout Buddy** | AI-powered fitness & nutrition app (NERO: your digital coach) | Python, Gemini API, AI |
+| 📸 **InstaVibe** | Next-gen social media with slick UI | MERN, shadcn/ui |
+| 🎵 **Spottu** | Modern music streaming for everyone | Full Stack Web |
+| 📊 **Stock Analyzer** | Python-powered stock market insights *(WIP)* | Python, Data Viz |
+
 </div>
 
 ---
 
-## 📫 Contact Me
+## 📈 GitHub Stats
 
-Feel free to reach out via [email](mailto:kannan.hacker1@gmail.com) or through any of my social links above!
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kannanhacker123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannanhacker123&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kannanhacker123&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 ---
 
-## 📜 License
+## 🎯 What I'm Up To
 
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+- 🔭 Building a **Python Stock Analyzer**
+- 🌱 Learning advanced **AI/ML** techniques
+- 🎮 Making indie games in Unity & Godot
+- ⚽ Playing football & exploring new AI tools
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-kb-dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kannan.hacker1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kannanhacker123)
+
+</div>
+
+---
+
+<div align="center">
+  <i>💡 "Started coding at 12, still debugging at 19 – some things never change!" 😄</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=kannanhacker123&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
