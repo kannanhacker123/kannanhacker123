@@ -17,7 +17,7 @@ class Kannan:
         self.fav_languages = ["Python", "JavaScript", "C++"]
         self.stack = ["Next.js", "React", "Node.js", "MERN"]
         self.projects = 5
-        self.fun_fact = "Started coding at 12, still debugging at 19!"
+        self.fun_fact = "Started coding at 13, still debugging at 19!"
     
     def highlights(self):
         return [
@@ -112,7 +112,9 @@ print(f"Hey, I'm {kannan.nickname} – full stack dev, builder, and lifelong lea
 ---
 
 <div align="center">
-  <i>💡 "Started coding at 12, still debugging at 19 – some things never change!" 😄</i>
+  <i>💡 "Started coding at 13, still debugging at 19 – some things never change!" 😄</i>
+  <br><br>
+  <i>This is my old GitHub account. I've now moved to 👉 <a href="https://github.com/kann4n" target="_blank">@kann4n</a>.</i>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=kannanhacker123&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
